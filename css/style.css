@@ -1,0 +1,28 @@
+body{
+    font: 20px Arial;
+}
+.navbar{
+    background-color: #29ba08;
+    
+
+}
+nav img{
+    margin-left: 20px;
+}
+.quem-somos{
+    background-color: #8181f7;
+    color: white;
+}
+.margin{
+    /*margin-top: 30px;*//*muda a margin de um componente um do outro*/
+    padding-top: 50px;/*e um margin interna tipo isso muda dentro da div*/
+    padding-bottom: 50px;/*ele distancia por ingual tipo ele bota um escaço tanto emcia quanto em baixo do msm tamanho*/
+
+}
+.parceiros{
+    background-color:red ;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
